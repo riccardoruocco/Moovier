@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  MoviesApp
+
+  Created by Carmine Porricelli on 01/03/22.
+  
+*/
+
+
+"discover-tab-title" = "Discover";
+"watchlist-tab-title" = "Watchlist";
+"settings-tab-title" = "Settings";
+"discover-call-to-action" = "Tap to start!";
+
+"saved-label" = "SAVED";
+
+"discover-history-title" = "History";
+"loved-history-filter" = "Loved";
+"discarded-history-filter" = "Discarded";
+"all-history-filter" = "All";
+
+"history-empty-state" = "The movies you swiped in the current session will be displayed here";
+"watchlist-empty-state" = "Bookmark movies to find them here";
+
+"movie-providers-title" = "Available for streaming on:";
+
+"movie-credit-title" = "Actors:";
+"movie-providers-title" = "Available for streaming on:";
+"available-to-buy "= "Available to buy on:";
+"available-to-rent" = "Available to rent on:";
+
+"close" = "Close";
+
+"location-united-states" = "United States";
+"location-united-kingdom" = "United Kingdom";
+"location-italy" = "Italy";
+"location-germany" = "Germany";
+
+
+"settings-title" = "Settings";
+
+"select-language-title" = "Select language";
+"language-italian" = "Italian";
+"language-german" = "German";
+"language-english" = "English";
+
+"original-titles-language-text-title" = "Titles";
+"original-titles-language-text" = "Titles in original language";
+
+"label-user-settings-section" = "User";
+"label-general-settings-section" = "General";
+
+"current-location-settings" = "Current Location";
+"streaming-platform-settings" = "Streaming platforms";
+"display-settings" = "Display";
+"storage-settings" = "Storage";
+"about-settings" = "About";
+
+"clean-watchlist-button" = "Clean Watchlist";
+"clean-history-button" = "Clean History";
+"clean-cache-button" = "Clean Cache";
+
+"about-text" = "MoovieFinder is an intuitive tool to find something new to watch in an easy way, powered by dynamic suggestion automatically updated according to your previous choices";
+"contributions-section-title" = "Contributions";
+"contact-section-title" = "Need to chat?";
+"button-contact" = "Get in touch";
+"credits-tmdb" = "This product uses the TMDb API but is not endorsed or certified by TMDb";
+"credits-team" = "MoovieFinder is brought to you by";

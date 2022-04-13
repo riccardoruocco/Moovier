@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  MoviesApp
+
+  Created by Carmine Porricelli on 01/03/22.
+  
+*/
+
+
+"discover-tab-title" = "Scopri";
+"watchlist-tab-title" = "Lista film";
+"settings-tab-title" = "Impostazioni";
+"discover-call-to-action" = "Tocca per iniziare!";
+
+"saved-label" = "SALVATO";
+
+"discover-history-title" = "Cronologia";
+"loved-history-filter" = "Piaciuti";
+"discarded-history-filter" = "Scartati";
+"all-history-filter" = "Tutti";
+
+"history-empty-state" = "I film che hai fatto scorrere nella sessione corrente verranno visualizzati qui";
+"watchlist-empty-state" = "Aggiungi i film ai preferiti per trovarli qui";
+
+"movie-credit-title" = "Attori:";
+"movie-providers-title" = "Disponibile per lo streaming su:";
+"available-to-buy "= "Disponibile per l'acquisto:";
+"available-to-rent" = "Disponibile per il noleggio:";
+
+"close" = "Chiudi";
+
+"location-united-states" = "Stati Uniti";
+"location-united-kingdom" = "Inghilterra";
+"location-italy" = "Italia";
+"location-germany" = "Germania";
+
+"original-titles-language-text-titles" = "Titoli";
+"original-titles-language-text" = "Titoli in lingua originale";
+
+"settings-title" = "Impostazioni";
+
+"select-country-title" = "Seleziona Paese";
+
+"select-language-title" = "Seleziona lingua";
+"language-italian" = "Italiano";
+"language-german" = "Tedesco";
+"language-english" = "Inglese";
+
+"label-user-settings-section" = "Utente";
+"label-general-settings-section" = "Generali";
+
+"current-location-settings" = "Posizione attuale";
+"streaming-platform-settings" = "Piattaforme di streaming";
+"display-settings" = "Display";
+"storage-settings" = "Memoria";
+"about-settings" = "About";
+
+"clean-watchlist-button" = "Svuota Lista film";
+"clean-history-button" = "Svuota Cronologia";
+"clean-cache-button" = "Svuota Cache";
+
+"about-text" = "MoovieFinder è un tool intuitivo per trovare qualcosa di nuovo da guardare in modo semplice, alimentato da suggerimenti dinamici aggiornati automaticamente in base alle tue scelte precedenti.";
+"contributions-section-title" = "Contributi";
+"contact-section-title" = "Hai bisogno di parlarci?";
+"button-contact" = "Contattaci";
+"credits-tmdb" = "Questo prodotto utilizza l'API TMDb ma non è approvato o certificato da TMDb";
+"credits-team" = "MoovieFinder è realizzato da";

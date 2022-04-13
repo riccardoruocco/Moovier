@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  MoviesApp
+
+  Created by Carmine Porricelli on 01/03/22.
+  
+*/
+
+
+"discover-tab-title" = "Entdecken";
+"watchlist-tab-title" = "Filmliste";
+"settings-tab-title" = "Einstellungen";
+"discover-call-to-action" = "Zum starten tippen!";
+
+"saved-label" = "GERETTET";
+
+"discover-history-title" = "Chronologie";
+"loved-history-filter" = "Gefallen";
+"discarded-history-filter" = "Verworfen";
+"all-history-filter" = "Jeder";
+
+"history-empty-state" = "The movies you swiped in the current session will be displayed here";
+"watchlist-empty-state" = "Bookmark movies to find them here";
+
+"movie-credit-title" = "Schauspieler:";
+"movie-providers-title" = "Zum Streamen verfügbar:";
+"available-to-buy "= "Zum Nachkaufen verfügbar:";
+"available-to-rent" = "Zur Miete verfügbar:";
+
+"close" = "schließen";
+
+"location-united-states" = "Vereinigte Staaten";
+"location-united-kingdom" = "Vereinigtes Königreich";
+"location-italy" = "Italien";
+"location-germany" = "Deutschland";
+
+"original-titles-language-text-title" = "Titel";
+"original-titles-language-text" = "Titel in Originalsprache anzeigen";
+
+"settings-title" = "Einstellungen";
+
+"select-language-title" = "Sprache auswählen";
+"language-italian" = "Italienisch";
+"language-german" = "Deutsch";
+"language-english" = "Englisch";
+
+"label-user-settings-section" = "Benutzer";
+"label-general-settings-section" = "Allgemein";
+
+"current-location-settings" = "Aktueller standort";
+"streaming-platform-settings" = "Streaming-Plattformen";
+"display-settings" = "Anzeige";
+"storage-settings" = "Erinnerung";
+"about-settings" = "Über";
+
+"clean-watchlist-button" = "Leere Filmliste";
+"clean-history-button" = "Verlauf löschen";
+"clean-cache-button" = "Cache leeren";
+
+"about-text" = "";
+"contributions-section-title" = "Beiträge";
+"contact-section-title" = "Müssen Sie chatten?";
+"button-contact" = "Kontakt";
+"credits-tmdb" = "Dieses Produkt verwendet die TMDb-API, ist jedoch nicht von TMDb unterstützt oder zertifiziert";
+"credits-team" = "MoovieFinder wird Ihnen bereitgestellt von";
