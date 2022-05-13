@@ -16,21 +16,12 @@ L'applicazione permette poi di accedere alla cronologia delle interazioni con le
 ![FrameWork1](https://badgen.net/badge/FrameworkUsed/SwiftUI/red/?icon=apple)
 ![FrameWork2](https://badgen.net/badge/FrameworkUsed/CoreData/red/?icon=apple)
 ![FrameWork3](https://badgen.net/badge/FrameworkUsed/AVFoundation/red/?icon=apple)
-![FrameWork4](https://badgen.net/badge/FrameworkUsed/Async-Await/red/?icon=apple)
 ![FrameWork4](https://badgen.net/badge/FrameworkUsed/CreateML-CoreML/red/?icon=apple)
+![Tec1](https://badgen.net/badge/Technology/Async-Await/red/?icon=apple)
+![Tec2](https://badgen.net/badge/Technology/NSCachet/red/?icon=apple)
+![Tec3](https://badgen.net/badge/Technology/APIRequest/red/?icon=apple)
 
 
 
 Live demo:<br />
 https://www.youtube.com/watch?v=97J5QgzhA6Q
-
-Tecnologie Utilizzate:
-- Swift
-- SwiftUI
-- Core Data
-- UserDefaults
-- AVFoundation
-- Async/Await
-- NSCache
-- CreateML/CoreML
-- API Request
