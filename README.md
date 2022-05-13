@@ -16,8 +16,7 @@ L'applicazione permette poi di accedere alla cronologia delle interazioni con le
 ![FrameWork1](https://badgen.net/badge/FrameworkUsed/SwiftUI/red/?icon=apple)
 
 Live demo:<br />
-https://studio.youtube.com/video/97J5QgzhA6Q/edit
-
+https://www.youtube.com/watch?v=97J5QgzhA6Q
 
 Tecnologie Utilizzate:
 - Swift
