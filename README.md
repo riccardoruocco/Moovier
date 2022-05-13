@@ -8,12 +8,15 @@ L'utente attraverso le gesture può esprimere un giudizio sul film oppure salvar
 I giudizi vengono usati dall'algoritmo per adattare le successive proposte all'utente.<br />
 L'applicazione permette poi di accedere alla cronologia delle interazioni con le carte e alla lista dei film salvati.<br />
 
-![Name](https://badgen.net/badge/AQTeam/AirQuotes/green?icon=github)
+![Name](https://badgen.net/badge/ToM/Moovier/green?icon=github)
 ![XcodeVersion](https://badgen.net/badge/XcodeVersion/13.0/green/?icon=apple)
 ![Swift](https://badgen.net/badge/SwiftVersion/5.5/red/?icon=apple)
 ![Dependencies](https://badgen.net/badge/dependencies/none/green?)
 ![BuiltFor](https://badgen.net/badge/BuiltFor/iOS15.0/green?) <br />
 ![FrameWork1](https://badgen.net/badge/FrameworkUsed/SwiftUI/red/?icon=apple)
+
+Live demo:<br />
+https://studio.youtube.com/video/97J5QgzhA6Q/edit
 
 
 Tecnologie Utilizzate:
