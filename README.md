@@ -14,6 +14,12 @@ L'applicazione permette poi di accedere alla cronologia delle interazioni con le
 ![Dependencies](https://badgen.net/badge/dependencies/none/green?)
 ![BuiltFor](https://badgen.net/badge/BuiltFor/iOS15.0/green?) <br />
 ![FrameWork1](https://badgen.net/badge/FrameworkUsed/SwiftUI/red/?icon=apple)
+![FrameWork2](https://badgen.net/badge/FrameworkUsed/CoreData/red/?icon=apple)
+![FrameWork3](https://badgen.net/badge/FrameworkUsed/AVFoundation/red/?icon=apple)
+![FrameWork4](https://badgen.net/badge/FrameworkUsed/Async-Await/red/?icon=apple)
+![FrameWork4](https://badgen.net/badge/FrameworkUsed/CreateML-CoreML/red/?icon=apple)
+
+
 
 Live demo:<br />
 https://www.youtube.com/watch?v=97J5QgzhA6Q
