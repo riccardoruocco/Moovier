@@ -16,7 +16,7 @@ L'applicazione permette poi di accedere alla cronologia delle interazioni con le
 ![FrameWork1](https://badgen.net/badge/FrameworkUsed/SwiftUI/red/?icon=apple)
 ![FrameWork2](https://badgen.net/badge/FrameworkUsed/CoreData/red/?icon=apple)
 ![FrameWork3](https://badgen.net/badge/FrameworkUsed/AVFoundation/red/?icon=apple)
-![FrameWork4](https://badgen.net/badge/FrameworkUsed/CreateML-CoreML/red/?icon=apple)
+![FrameWork4](https://badgen.net/badge/FrameworkUsed/CreateML-CoreML/red/?icon=apple) <br />
 ![Tec1](https://badgen.net/badge/Technology/Async-Await/red/?icon=apple)
 ![Tec2](https://badgen.net/badge/Technology/NSCachet/red/?icon=apple)
 ![Tec3](https://badgen.net/badge/Technology/APIRequest/red/?icon=apple)
