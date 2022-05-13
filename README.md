@@ -27,7 +27,7 @@ Live demo:<br />
 https://www.youtube.com/watch?v=97J5QgzhA6Q
 
 Team: 
-Riccardo Francesco Ruocco 
-Luca Basile 
-Carmine Porricelli 
-Luigi Pedata
+Riccardo Francesco Ruocco <br />
+Luca Basile <br />
+Carmine Porricelli <br />
+Luigi Pedata<br />
