@@ -26,7 +26,7 @@ L'applicazione permette poi di accedere alla cronologia delle interazioni con le
 Live demo:<br />
 https://www.youtube.com/watch?v=97J5QgzhA6Q
 
-Team: 
+Team: <br />
 Riccardo Francesco Ruocco <br />
 Luca Basile <br />
 Carmine Porricelli <br />
